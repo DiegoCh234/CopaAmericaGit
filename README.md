@@ -27,3 +27,15 @@ var cnx = _config.GetConnectionString("DevConnection");
 builder.Services
     .AddDbContext<PeruDbContext>
     (options => options.UseSqlServer(cnx));
+
+
+
+
+
+###########
+Store DB API
+https://github.com/luischang/UE.STOREDB.API.git
+###########
+Peru API Review
+https://github.com/luischang/PeruAPIReview.git
+
