@@ -32,10 +32,4 @@ builder.Services
 
 
 
-###########
-Store DB API
-https://github.com/luischang/UE.STOREDB.API.git
-###########
-Peru API Review
-https://github.com/luischang/PeruAPIReview.git
 
